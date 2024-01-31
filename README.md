@@ -1,5 +1,5 @@
 <p align="center">
-<img src="" alt="Ocean Lian" />
+<img src="https://github.com/c0r2a-lab/c0r2a-lab/blob/main/video.gif" alt="Ocean Lian" />
 </p>
 
 <!--
