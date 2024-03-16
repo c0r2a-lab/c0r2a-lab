@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... --->
 - ⚡ Fun fact: You can check my even older projects on my another github.
-- https://github.com/c0r2a-hub 
+      https://github.com/c0r2a-hub 
