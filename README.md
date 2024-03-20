@@ -1,3 +1,6 @@
+##⚡ You can check my even older projects on my another github.
+      https://github.com/c0r2a-hub 
+
 <p align="center">
 <img src="https://github.com/c0r2a-lab/c0r2a-lab/blob/main/video.gif" alt="Ocean Lian" />
 </p>
@@ -14,5 +17,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... --->
-- ⚡ Fun fact: You can check my even older projects on my another github.
-      https://github.com/c0r2a-hub 
+
