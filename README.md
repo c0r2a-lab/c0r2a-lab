@@ -1,4 +1,4 @@
-## ⚡ Want to see my previous projects more? Visit https://github.com/c0r2a-hub.
+
 
 <p align="center">
 <img src="https://github.com/c0r2a-lab/c0r2a-lab/blob/main/video.gif" alt="Ocean Lian" />
